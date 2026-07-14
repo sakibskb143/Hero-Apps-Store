@@ -8,10 +8,12 @@ const Home = () => {
   const softwareData = useLoaderData();
   console.log(softwareData);
   return (
-    <div className="bg-[#F1F5E8]">
+    <div className="bg-[#F1F5E8] h-full">
       <Banner></Banner>
       <Stat></Stat>
-      <TrendApp softwareData={softwareData}></TrendApp>
+      <div className="flex-1">
+        <TrendApp softwareData={softwareData}></TrendApp>
+      </div>
     </div>
   );
 };

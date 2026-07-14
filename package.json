@@ -15,7 +15,11 @@
     "react-countup": "^6.5.3",
     "react-dom": "^19.2.7",
     "react-icons": "^5.7.0",
+    "react-loader-spinner": "^8.0.2",
     "react-router": "^8.2.0",
+    "react-toastify": "^11.1.0",
+    "recharts": "^3.9.2",
+    "styled-components": "^6.4.3",
     "tailwindcss": "^4.3.2"
   },
   "devDependencies": {

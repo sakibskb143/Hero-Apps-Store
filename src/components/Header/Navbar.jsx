@@ -86,7 +86,7 @@ const Navbar = () => {
           <ul className="menu menu-horizontal px-1 gap-5">{links}</ul>
         </div>
         <div className="navbar-end">
-          <a className="btn font-bold bg-linear-to-r from-[#9F62F2] to-[#632EE3] text-white ">
+          <a href={`https://github.com/sakibskb143`} className="btn font-bold bg-linear-to-r from-[#9F62F2] to-[#632EE3] text-white ">
             <FaGithub /> Contribute
           </a>
         </div>

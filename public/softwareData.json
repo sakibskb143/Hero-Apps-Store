@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://example.com/images/vscode.png",
+    "image": "https://i.ibb.co.com/q3zhZL7c/images-q-tbn-ANd9-Gc-SCOTIV4-Tb4h16-YNEwan-HL3es-W2nwwum-HYq-AFgc-Va-MUOw-s.jpg",
     "title": "Visual Studio Code",
     "companyName": "Microsoft",
     "description": "A lightweight and powerful source code editor.",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "image": "https://example.com/images/chrome.png",
+    "image": "https://cdn.pixabay.com/photo/2016/04/13/14/27/google-chrome-1326908_1280.png",
     "title": "Google Chrome",
     "companyName": "Google",
     "description": "Fast, secure, and reliable web browser.",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "image": "https://example.com/images/spotify.png",
+    "image": "https://i.ibb.co.com/XRmsWq5/Spotify-Logo.jpg",
     "title": "Spotify",
     "companyName": "Spotify",
     "description": "Music streaming platform with millions of songs.",
@@ -55,7 +55,7 @@
   },
   {
     "id": 4,
-    "image": "https://example.com/images/discord.png",
+    "image": "https://i.ibb.co.com/1JfsTjxw/discord-logo-icon-editorial-free-vector.jpg",
     "title": "Discord",
     "companyName": "Discord Inc.",
     "description": "Voice, video, and text communication platform.",
@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "image": "https://example.com/images/photoshop.png",
+    "image": "https://i.ibb.co.com/m5JkbnxP/rectangle-adobe-photoshop-icon-logo-symbol-free-png.png",
     "title": "Adobe Photoshop",
     "companyName": "Adobe",
     "description": "Professional image editing and graphic design software.",
@@ -91,7 +91,7 @@
   },
   {
     "id": 6,
-    "image": "https://example.com/images/slack.png",
+    "image": "https://img.icons8.com/color/1200/slack-new.jpg",
     "title": "Slack",
     "companyName": "Slack",
     "description": "Business communication and collaboration platform.",
@@ -109,7 +109,7 @@
   },
   {
     "id": 7,
-    "image": "https://example.com/images/zoom.png",
+    "image": "https://i.ibb.co.com/mCmKqDKR/images-q-tbn-ANd9-Gc-Ql-Qz-Sm-S7u-Oaq-NMZT-id-MCPw-Q57-e-X7-U3j5t-EK0-Mvwx-Qg-s-10.jpg",
     "title": "Zoom",
     "companyName": "Zoom",
     "description": "Cloud-based video conferencing platform.",
@@ -127,7 +127,7 @@
   },
   {
     "id": 8,
-    "image": "https://example.com/images/notion.png",
+    "image": "https://images.seeklogo.com/logo-png/42/1/notion-logo-png_seeklogo-425508.png",
     "title": "Notion",
     "companyName": "Notion Labs",
     "description": "Workspace for notes, tasks, and project management.",
@@ -145,7 +145,7 @@
   },
   {
     "id": 9,
-    "image": "https://example.com/images/figma.png",
+    "image": "https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png",
     "title": "Figma",
     "companyName": "Figma",
     "description": "Collaborative interface design and prototyping tool.",
@@ -163,7 +163,7 @@
   },
   {
     "id": 10,
-    "image": "https://example.com/images/telegram.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png",
     "title": "Telegram",
     "companyName": "Telegram",
     "description": "Fast and secure cloud-based messaging app.",
@@ -181,7 +181,7 @@
   },
   {
     "id": 11,
-    "image": "https://example.com/images/obs.png",
+    "image": "https://img.icons8.com/color/1200/obs-studio.jpg",
     "title": "OBS Studio",
     "companyName": "OBS Project",
     "description": "Free and open-source software for recording and streaming.",
@@ -199,7 +199,7 @@
   },
   {
     "id": 12,
-    "image": "https://example.com/images/vlc.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/VLC_icon.png",
     "title": "VLC Media Player",
     "companyName": "VideoLAN",
     "description": "Free multimedia player supporting almost every media format.",

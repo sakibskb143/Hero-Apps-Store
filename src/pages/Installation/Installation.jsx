@@ -35,8 +35,8 @@ const handleLowToHigh = () => {
 };
 
   return (
-    <div className="bg-[#F1F5E8]">
-      <div className="max-w-7xl mx-auto py-15">
+    <div className="bg-[#F1F5E8] h-full">
+      <div className="max-w-7xl mx-auto py-10 ">
 
         <div className="text-center mb-5">
           <h1 className="text-4xl text-[#001931] font-bold mb-3">
