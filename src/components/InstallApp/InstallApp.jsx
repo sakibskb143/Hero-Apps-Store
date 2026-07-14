@@ -20,10 +20,10 @@ const InstallApp = ({ installApp,setSoftwareDatas }) => {
   };
 
   return (
-    <div className="flex flex-row gap-5 p-4 bg-white rounded-2xl">
+    <div className="flex  flex-col md:flex-row gap-5 p-4 bg-white rounded-2xl">
       
       {/* Image */}
-      <div>
+      <div className="flex items-center justify-center">
         <img
           className="w-25 h-25 rounded-xl"
           src={image}
@@ -32,7 +32,7 @@ const InstallApp = ({ installApp,setSoftwareDatas }) => {
       </div>
 
       {/* Details */}
-      <div className="flex justify-between items-center flex-1">
+      <div className="flex flex-col md:flex-row md:justify-between md:items-center flex-1 gap-5">
         <div className="flex flex-col gap-5">
           
           <h1 className="text-[#001931] text-2xl font-bold">

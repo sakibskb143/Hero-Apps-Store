@@ -11,7 +11,7 @@ const Banner = () => {
         <div className="flex flex-col items-center gap-5 mb-5">
           <h1 className="text-5xl font-extrabold text-center ">
             We Build <br />
-            <span className="bg-gradient-to-r from-[#9F62F2] to-[#632EE3] bg-clip-text text-transparent">
+            <span className="bg-linear-to-r from-[#9F62F2] to-[#632EE3] bg-clip-text text-transparent">
               Productive </span>
             Apps
           </h1>
@@ -21,7 +21,7 @@ const Banner = () => {
             into digital experiences that truly make an impact.
           </p>
         </div>
-        <div className="flex gap-5 mb-10">
+        <div className="flex flex-col md:flex-row gap-5 mb-10">
           <button className="flex gap-3 btn border-1 border-gray-400 text-xl">
             <FaGooglePlay className="text-2xl" />
             Google Play

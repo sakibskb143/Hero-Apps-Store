@@ -49,7 +49,7 @@ const AppDetails = () => {
     setToggle(true);
   };
   return (
-    <div className="bg-[#F1F5E8] py-20 ">
+    <div className="bg-[#F1F5E8] py-10 md:py-20 ">
       <div className="max-w-7xl mx-auto space-y-10 md:space-y-20">
         <div className="flex flex-col md:flex-row  gap-10 items-center justify-center ">
           <div>

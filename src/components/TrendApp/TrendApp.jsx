@@ -15,12 +15,12 @@ const TrendApp = ({softwareData}) => {
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
-      <div className="grid grid-cols-1 md: grid-cols-2 lg:grid-cols-4 gap-5 mb-10">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 mb-10">
         {
             softwareData.slice(0,8).map(softwareInfo => <TApp key={softwareInfo.id} softwareInfo={softwareInfo}></TApp>)
         }
       </div>
-      <div className="flex justify-center items-center py-10 ">
+      <div className="flex justify-center items-center ">
         <Link to={'/apps'} className="bg-linear-to-b from-[#632EE3] to-[#9F62F2] text-lg font-bold text-white rounded-xl px-10 py-3">Show All</Link>
       </div>
      
